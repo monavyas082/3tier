@@ -1,0 +1,10 @@
+https://dlcdn.apache.org/tomcat/tomcat-8/v8.5.91/bin/apache-tomcat-8.5.91.tar.gz
+
+
+
+
+
+https://aws-studentapp-project.s3.ap-south-1.amazonaws.com/student.war
+
+
+https://github.com/Prasadcloudmaster/3-tier-repo.git
